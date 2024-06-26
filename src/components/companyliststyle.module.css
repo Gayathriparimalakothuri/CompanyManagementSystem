@@ -1,0 +1,58 @@
+.header{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+  }
+.styling{
+    width:'100%';
+    border:'5px';
+    border-color:' black';
+    margin:'0px'
+  }
+.cellstyle{
+    padding:'50px'
+  }
+.table{
+    border: 1px solid black;
+    padding: 10px;
+  }
+  .tableheader{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    text-transform: capitalize;
+    background-color: rgb(190, 190, 243);
+  }
+  
+  .tablecontent{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif ;
+    padding: 10px;
+    text-align: center;
+    text-transform: lowercase;
+  }
+  .tablebody{
+    background-color: rgb(240, 230, 250);
+  }
+  
+  .info{
+    color:rgb(124, 124, 245);
+  }
+  .icons{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+  }
+  .edit{
+    color:rgb(255, 166, 0);
+  }
+  .delete{
+    color: rgb(252, 6, 6);
+  }
+  .additem{
+    float: right;
+    color: indigo ;
+    font-size: 30px;
+    margin: 15px;
+  }

@@ -1,0 +1,31 @@
+.body{
+    margin: 15px;
+}
+.header{
+    font-size: 30px;
+    color: rgb(221, 152, 250);
+    margin: 25px;
+    padding: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.details{
+    border: 3px solid rgb(161, 161, 197);
+    border-radius: 10px;
+    margin: 10px;
+    color: rgb(67, 67, 151);
+    width: 500px;
+    height: 250px;
+}
+.col{
+    margin:15px;
+    font-size: 15px;
+}
+.label{
+    font-size: 25px;
+    margin: 5px;
+    padding: 10px;
+}
+.data{
+    font-size: 22px;
+    color: rgb(139, 139, 235);
+}
